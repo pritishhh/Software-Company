@@ -1,6 +1,6 @@
 /*
 
-Template: IT Infinite - IT Solutions and Services Company HTML5 Template
+Template: IT Infinite - IT Solutions and Services Company  
 Author: potenzaglobalsolutions
 Design and Developed by: potenzaglobalsolutions.com
 
